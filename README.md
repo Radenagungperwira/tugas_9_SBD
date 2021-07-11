@@ -8,6 +8,7 @@ NIM  : 311910238
 
 Mapel: Sistem Basis Data
 
+
 Create Data
 
 ![1](https://user-images.githubusercontent.com/82001840/125193561-2e421380-e277-11eb-9dc4-0a0a6c958b24.PNG)
